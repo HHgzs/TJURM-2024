@@ -160,8 +160,7 @@
         "Lightbar" : {
             "MinRectSide" : 1.0,
             "MaxRectSide" : 15.0,
-            "MinArea" : 5.0,
-            "MinAreaSniper" : 50.0,
+            "MinArea" : 5.0, 
             "MinRatioArea" : 0.2,
             "CircleMinRatioArea" : 0.8,
             "CircleMinRadius" : 15,
@@ -180,9 +179,7 @@
             "MaxAngleAvg" : 40.0,
             "RatioSide" : {
                 "Min" : 1.0,
-                "Max" : 10.0,
-                "BaseMin" : 3.0,
-                "BaseMax" : 10.0
+                "Max" : 10.0
             },
             "SizeRatio" : 3.0,
             "TowerSizeRatio" : 3.4,
