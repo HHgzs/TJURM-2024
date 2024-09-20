@@ -9,7 +9,7 @@
 **本框架需配合视觉算法库 [OpenRM](https://github.com/HHgzs/OpenRM-2024) 食用**
 
 
-
+**欢迎查看Wiki，获取更多信息 [TJURM自瞄算法Wiki](https://github.com/HHgzs/TJURM-2024/wiki/TJURM%E8%87%AA%E7%9E%84%E7%AE%97%E6%B3%95Wiki)**
 
 
 ## 🌟 代码亮点 🌟
